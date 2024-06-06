@@ -31,7 +31,7 @@ const SamplePage = (props) => {
                 <p className={styles.blogParagraph}>
                   Lotto's Closet collects
                   personal information that you voluntarily provide when
-                  applying or registering for an account with The Upside or
+                  applying or registering for an account with Lotto's Closet or
                   making a purchase on The Lotto's Closet website https://lottoscloset.netlify.app/.
                 </p>
                 <p className={styles.blogParagraph}>
@@ -58,7 +58,7 @@ const SamplePage = (props) => {
                 </div>
               </div>
               <div className={styles.content}>
-                <h2 className={styles.blogSubHeader}>2. Lorem ipsum</h2>
+                <h2 className={styles.blogSubHeader}>2. Age Restriction</h2>
                 <p className={styles.blogParagraph}>
                   Our Services, including but not limited to the registration of
                   an account with us or placing of an order, is not intended to
