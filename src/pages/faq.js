@@ -23,7 +23,7 @@ const FaqPage = (props) => {
               <h3>Deliveries</h3>
               <p>
                 To review the status of your order please visit the "My Orders"
-                section of your Sunspel Account. You should receive an email
+                section of your Lotto's Closet Account. You should receive an email
                 notification when your package is dispatched. Please check your
                 email inbox and your junk filter.
               </p>
@@ -35,8 +35,8 @@ const FaqPage = (props) => {
               </p>
               <p>
                 If there’s something you want to know about your order, please
-                get in touch with us at customerservice@example.com or call us
-                on +44 (0)115 111 1111.
+                get in touch with us at martinr@csp.edu or call us
+                on +1 407 360 6249.
               </p>
             </div>
             <div className={styles.subSection}>
@@ -62,7 +62,7 @@ const FaqPage = (props) => {
               <h3>Shipping Rates</h3>
               <p>
                 To review the status of your order please visit the "My Orders"
-                section of your Sunspel Account. You should receive an email
+                section of your Lotto's Closet Account. You should receive an email
                 notification when your package is dispatched. Please check your
                 email inbox and your junk filter.
               </p>
@@ -74,8 +74,8 @@ const FaqPage = (props) => {
               </p>
               <p>
                 If there’s something you want to know about your order, please
-                get in touch with us at customerservice@example.com call us on
-                +44 (0)115 111 1111.
+                get in touch with us at martinr@csp.edu call us on
+                +1 407 360 6249.
               </p>
             </div>
             <div className={styles.subSection}>
@@ -104,7 +104,7 @@ const FaqPage = (props) => {
                 use of your card will take place on our website. But if a
                 fraudulent transaction does take place, first contact your
                 credit or debit card company so they can protect your card and
-                reimburse you. Then let us know at customerservice@example.com
+                reimburse you. Then let us know at martinr@csp.edu
                 and we will work with your card company to minimise any further
                 inconvenience to you.
               </p>

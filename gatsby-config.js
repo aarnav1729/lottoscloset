@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Sydney Ecommerce Theme`,
-    siteUrl: `https://jamm.matter.design`,
+    title: `webstax project for Lotto's Closet`,
+    siteUrl: `https://main--webstaxx.netlify.app/`,
   },
   plugins: [],
 };

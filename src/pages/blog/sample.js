@@ -20,18 +20,19 @@ const SamplePage = (props) => {
             >
               <div className={styles.content}>
                 <p className={styles.excerpt}>
-                  London-based floral designer Flora Fricker champions seasonal
-                  British flowers and UK producers in her beautiful and
-                  sustainable creations. This season, we worked with Flora to
-                  style Sunspel stores for Christmas, for which she produced
-                  eye-catching sustainably sourced wreaths.
+                  Minnesota-based Division 2 Football athlete Ryan Martin's clothing brand 
+                  Lotto's Closet is a brand that is dedicated to providing high-quality 
+                  clothing for athletes and sports enthusiasts alike. The brand was founded in
+                  2020 and has since grown to become a popular choice for athletes and sports
+                  enthusiasts across the United States. The brand offers a wide range of
+                  clothing items, including t-shirts, hoodies, and hats, all of which are
+                  American made and designed to be comfortable and stylish.
                 </p>
                 <p className={styles.blogParagraph}>
-                  Delaware limited liability company (The Sydney) collects
+                  Lotto's Closet collects
                   personal information that you voluntarily provide when
                   applying or registering for an account with The Upside or
-                  making a purchase on The Upside website; www.theupside.com
-                  (the Website).
+                  making a purchase on The Lotto's Closet website https://lottoscloset.netlify.app/.
                 </p>
                 <p className={styles.blogParagraph}>
                   This Privacy Policy (Privacy Policy) outlines how your
@@ -63,7 +64,7 @@ const SamplePage = (props) => {
                   an account with us or placing of an order, is not intended to
                   be used by children under the age of 13. When a visitor
                   indicates an age under 13, the registration process for The
-                  Upside website cannot be completed, and no personally
+                  Lotto's Closet website cannot be completed, and no personally
                   identifying information is collected in conjunction with that
                   attempted submission except that we retain e-mail addresses of
                   such persons (and record of access attempts) for purposes of
@@ -80,7 +81,7 @@ const SamplePage = (props) => {
                   abide by this Privacy Policy.
                 </p>
                 <p className={styles.blogParagraph}>
-                  The Upside collects, uses and discloses information regarding
+                  Lotto's Closet collects, uses and discloses information regarding
                   users aged 13-18 in the same manner as it does for adults.
                 </p>
               </div>

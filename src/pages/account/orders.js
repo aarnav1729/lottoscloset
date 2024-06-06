@@ -15,8 +15,8 @@ const OrderPage = (props) => {
 
   const sampleOrder1 = {
     id: '2',
-    orderPlaced: 'Oct 12, 2021',
-    lastUpdate: 'Oct 12, 2021',
+    orderPlaced: 'June 7, 2024',
+    lastUpdate: 'June 7, 2024',
     status: 'pending',
     items: [
       {
@@ -35,25 +35,25 @@ const OrderPage = (props) => {
       },
     ],
     shippingAddress: {
-      name: 'John Doe',
-      address: '1 Steam Mill Lane, Haymerket',
-      postal: '2000',
-      state: 'NSW',
-      country: 'Australia',
+      name: 'Ryan Martin',
+      address: '1282 Concordia Ave',
+      postal: '55104',
+      state: 'Minnesota',
+      country: 'United States of America',
     },
     billingAddress: {
-      name: 'John Doe',
-      address: '1 Steam Mill Lane, Haymerket',
-      postal: '2000',
-      state: 'NSW',
-      country: 'Australia',
+      name: 'Ryan Martin',
+      address: '1282 Concordia Ave',
+      postal: '55104',
+      state: 'Minnesota',
+      country: 'United States of America',
     },
   };
 
   const sampleOrder2 = {
     id: '1',
-    orderPlaced: 'Oct 11, 2021',
-    lastUpdate: 'Oct 11, 2021',
+    orderPlaced: 'June 7, 2024',
+    lastUpdate: 'June 7, 2024',
     status: 'pending',
     items: [
       {
@@ -65,18 +65,18 @@ const OrderPage = (props) => {
       },
     ],
     shippingAddress: {
-      name: 'John Doe',
-      address: '1 Steam Mill Lane, Haymerket',
-      postal: '2000',
-      state: 'NSW',
-      country: 'Australia',
+      name: 'Aarnav Singh',
+      address: 'Singhcottage House No. 7',
+      postal: '50063',
+      state: 'New York',
+      country: 'United States of America',
     },
     billingAddress: {
-      name: 'John Doe',
-      address: '1 Steam Mill Lane, Haymerket',
-      postal: '2000',
-      state: 'NSW',
-      country: 'Australia',
+      name: 'Aarnav Singh',
+      address: 'Singhcottage House No. 7',
+      postal: '50063',
+      state: 'New York',
+      country: 'United States of America',
     },
   };
 

@@ -33,14 +33,14 @@ const HowToUsePage = (props) => {
         </div>
         <Container size={'large'} spacing={'min'}>
           <div className={styles.content} style={{ paddingTop: '80px' }}>
-            <h3>Built By Matter.</h3>
+            <h3>Built By Webstax.</h3>
             <div id="#builtBy" ref={builtRef}>
               <p>
                 This theme is proudly brought to you by the team at{' '}
-                <Button target={true} href="https://matterdesign.com.au/">
-                  Matter Design & Digital
+                <Button target={true} href="https://main--webstaxx.netlify.app/">
+                  Webstax
                 </Button>{' '}
-                (Matter.).
+                (webstax™.).
               </p>
               <p>
                 The Sydney theme is built for Netlify as an ecommerce theme
@@ -49,15 +49,15 @@ const HowToUsePage = (props) => {
                 ecommerce platform that support a headless architecture.
               </p>
               <p>
-                Matter. has pre-built connections to microservices available
-                through its JAMM.™ solution. JAMM.™ is a system built to run a
-                headless architecture. JAMM.™ can connect micro-services,
+                Webstax. has pre-built connections to microservices available
+                through its webstax™. solution. Webstax has a system built to run a
+                headless architecture. Webstax can connect micro-services,
                 orchestrate data and publish websites to an edge network for
-                lighting fast performce. JAMM.™ creates a server-side rendered
+                lighting fast performce. Webstax creates a server-side rendered
                 website that is fast, stable and scalable for high traffic
                 events.
               </p>
-              <Button target={true} href="https://jamm.matter.design/">
+              <Button target={true} href="https://main--webstaxx.netlify.app/">
                 Read more about JAMM.™
               </Button>
               <img
@@ -153,9 +153,9 @@ const HowToUsePage = (props) => {
               <p>
                 <Button
                   target={true}
-                  href="https://www.matterdesign.com.au/contact/"
+                  href="https://main--webstaxx.netlify.app/"
                 >
-                  Contact the team at Matter.
+                  Contact the team at webstax™.
                 </Button>
               </p>
             </div>

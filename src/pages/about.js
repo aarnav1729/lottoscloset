@@ -49,16 +49,15 @@ const AboutPage = (props) => {
         <Container size={'large'} spacing={'min'}>
           <div className={styles.detailContainer} ref={historyRef}>
             <p>
-              Founded in 1860, Sydney is an innovative British brand with a
+              Founded in 2024, Lotto's Closet is an innovative Minnesota based brand with a
               contemporary edge. We make timeless everyday luxury clothing.
             </p>
             <br />
             <br />
             <p>
-              We created some of the world's first T-shirts and spent decades
-              perfecting the feel of the cotton. Today we are the only brand
-              that makes T-shirts in its own factory in the UK. And we do this
-              in the same factory we have occupied since 1937.
+              We created some of the world's first athlesuire T-shirts and spent decades
+              perfecting the feel of the cotton. Today we are one of the only brands
+              that makes our T-shirts in our own factory right here in the United States.
             </p>
           </div>
         </Container>
@@ -72,16 +71,13 @@ const AboutPage = (props) => {
             <h3>Our Values</h3>
             <div ref={valuesRef}>
               <p>
-                Sunspel produced some of the world's earliest T-shirts. In the
-                late 1800s the business made luxury tunics and undershirts from
-                lightweight Sea Island cotton for export to the Far East and
-                other warm climates. While these garments initially had silk
-                buttoned plackets, these were removed in the early 1900s and
-                replaced with simple bound necks to reduce manufacturing costs -
-                creating the T-shirt. We've supplied the world as the T-shirt
-                has evolved from underwear to outerwear, from symbol of youthful
-                rebellion to everyday wardrobe staple, and we've spent decades
-                refining its every last aspect.
+                Lotto's Closet is a brand that is committed to creating high-quality clothing
+                that is both stylish and comfortable. We believe that everyone should have
+                access to clothing that makes them feel good and that is why we are dedicated
+                to creating clothing that is both affordable and fashionable. Our goal is to
+                provide our customers with clothing that is made to last and that is designed
+                to be worn for years to come. A portion of our profits goes to charity and we
+                are always looking for ways to give back to our community.
               </p>
               <ol>
                 <li>Be an ecowear</li>
@@ -93,25 +89,23 @@ const AboutPage = (props) => {
             <h3>Sustainability</h3>
             <div id={'#sustainability'} ref={sustainabilityRef}>
               <p>
-                Our founder, Thomas Hill, had both an eye for quality and a
-                desire to innovate. As well as using the finest fibres such as
-                Sea Island cotton, cashmere and silk, he invented his own
-                fabrics. Sunspel continues this commitment to innovation today
-                and our unique fabrics include: Q100 Sea Island cotton, Q82
-                Supima cotton, Q75 warp knit mesh cotton and Q14 warp knit
-                cellular cotton. The technology behind these fabrics remains
-                unchanged today and all Sunspel products use the finest cottons,
-                wools and fibres.
+                Our founder, Ryan Martin, had both an eye for quality and a
+                desire to innovate. He ensures that all his products are created using the finest fibres such as
+                Sea Island cotton, cashmere and silk. He also ensures that all his products are made in
+                the United States so he is able to give back to the community. 
+                Moreover, all of our products are made with the environment in mind. We use only natural
+                materials and we are always looking for ways to reduce our carbon footprint. We are
+                committed to creating clothing that is both stylish and sustainable.
               </p>
               <p>
-                Made in Long Eaton, England and crafted from our luxurious long
+                Made in Minnesota and crafted from our luxurious long
                 staple Supima cotton for unparalleled softness, comfort and
-                durability, the Sunspel T-shirt has a classic fit and only the
+                durability, the Kingdom Dept. T-shirt has a classic fit and only the
                 most essential details.{' '}
               </p>
               <p>
-                With over 100 years spent perfecting fabric, fit and style, the
-                Sunspel Classic T-shirt is recognised as the finest in the
+                With over 100 hours spent perfecting fabric, fit and style, the
+                Kingdom Dept. Classic T-shirt is recognised as one the finest in the
                 world.
               </p>
             </div>
