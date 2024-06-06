@@ -20,6 +20,7 @@ const ShopV2Page = (props) => {
 
   const [filterState, setFilterState] = useState(filters);
 
+
   const filterTick = (e, categoryIndex, labelIndex) => {
     const filterStateCopy = [...filterState];
     filterStateCopy[categoryIndex].items[labelIndex].value = !e.target.value;
